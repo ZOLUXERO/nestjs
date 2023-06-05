@@ -1,7 +1,7 @@
 # Install
 
 install nvm e instalar node v18.16.0
-para creara proyecto de nest
+para crear proyecto de nest
 ```
 npm i -g @nestjs/cli
 nest new project-name
